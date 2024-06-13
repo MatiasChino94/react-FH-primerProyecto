@@ -10,4 +10,8 @@ Primer proyecto del curso de React de FH
 - ClassName, clases para CSS
 - Archivos Barril
 - Estructura del directorio
-- Despliegue de aplicacion 
+- Despliegue de aplicacion
+- Testing 
+
+- Seccion 7
+- Seccion 8
